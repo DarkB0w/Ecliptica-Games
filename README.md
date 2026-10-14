@@ -16,4 +16,4 @@ Görseller `assets/` içinde yerel olarak tutulur. Bağlantılar JavaScript olma
 - Kullanıcının sağladığı beş farklı Unity/Blender ekran görüntüsü — geliştirme galerisi. Aynı mimari model görüntüsünün ikinci kopyası tekrarlanmaz.
 
 ## Yayın
-Mevcut GitHub Pages deposu için hazırlanmıştır. Yerel değişiklikler kendi başına canlı siteyi güncellemez. Önceki sitedeki `order66devstudios@gmail.com` iletişim adresi korunmuştur. `portfolio.pdf` korunur ancak sitede bağlantısı yoktur; `app-ads.txt` değiştirilmez.
+Mevcut GitHub Pages deposu için hazırlanmıştır. Yerel değişiklikler kendi başına canlı siteyi güncellemez. İletişim adresi kullanıcının talebiyle `ensarkarayay0758@gmail.com` olarak güncellenmiştir. `portfolio.pdf` korunur ancak sitede bağlantısı yoktur; `app-ads.txt` değiştirilmez.
